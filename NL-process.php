@@ -2,7 +2,6 @@
 
 	$emailmanager = 'suscripcion@name.com';
 
-
 	$scriptUrl = 'name/NL-confirm.php';
 
 	$urlok = 'NL-ok.html';
