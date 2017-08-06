@@ -5,8 +5,8 @@ $emailmanager = 'suscripcion@name.com';
 
 $scriptUrl = 'http://www.dominio.com/NL-confirm.php';
 
-$urlok = 'NL-ok.html';
-$urlko = 'NL-ko.html';
+$urlok = 'http://www.dominio.com/NL-ok.html';
+$urlko = 'http://www.dominio.com/NL-ko.html';
 
 error_reporting(0);
 
